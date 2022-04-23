@@ -1,6 +1,6 @@
-## Doxyfile 1.8.17
+# Doxyfile 1.8.17
 
-# Project related configuration options
+## Project related configuration options
 
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = "LED_Controls"
@@ -61,7 +61,7 @@ INLINE_SIMPLE_STRUCTS  = NO
 TYPEDEF_HIDES_STRUCT   = NO
 LOOKUP_CACHE_SIZE      = 0
 
-# Build related configuration options
+## Build related configuration options
 
 EXTRACT_ALL            = YES
 EXTRACT_PRIVATE        = NO
@@ -102,7 +102,7 @@ FILE_VERSION_FILTER    =
 LAYOUT_FILE            =
 CITE_BIB_FILES         =
 
-# Configuration options related to warning and progress messages
+## Configuration options related to warning and progress messages
 
 QUIET                  = NO
 WARNINGS               = YES
@@ -113,7 +113,7 @@ WARN_AS_ERROR          = NO
 WARN_FORMAT            = "$file:$line: $text"
 WARN_LOGFILE           =
 
-# Configuration options related to the input files
+## Configuration options related to the input files
 
 INPUT                  =
 INPUT_ENCODING         = UTF-8
@@ -179,7 +179,7 @@ FILTER_SOURCE_FILES    = NO
 FILTER_SOURCE_PATTERNS =
 USE_MDFILE_AS_MAINPAGE = 
 
-# Configuration options related to source browsing
+## Configuration options related to source browsing
 
 SOURCE_BROWSER         = YES
 INLINE_SOURCES         = YES
@@ -194,13 +194,13 @@ CLANG_ASSISTED_PARSING = NO
 CLANG_OPTIONS          =
 CLANG_DATABASE_PATH    =
 
-# Configuration options related to the alphabetical class index
+## Configuration options related to the alphabetical class index
 
 ALPHABETICAL_INDEX     = YES
 COLS_IN_ALPHA_INDEX    = 5
 IGNORE_PREFIX          =
 
-# Configuration options related to the HTML output
+## Configuration options related to the HTML output
 
 GENERATE_HTML          = YES
 HTML_OUTPUT            = html
@@ -260,7 +260,7 @@ SEARCHDATA_FILE        = searchdata.xml
 EXTERNAL_SEARCH_ID     =
 EXTRA_SEARCH_MAPPINGS  =
 
-# Configuration options related to the LaTeX output
+## Configuration options related to the LaTeX output
 
 GENERATE_LATEX         = YES
 LATEX_OUTPUT           = latex
@@ -283,7 +283,7 @@ LATEX_BIB_STYLE        = plain
 LATEX_TIMESTAMP        = NO
 LATEX_EMOJI_DIRECTORY  =
 
-# Configuration options related to the RTF output
+## Configuration options related to the RTF output
 
 GENERATE_RTF           = NO
 RTF_OUTPUT             = rtf
@@ -293,7 +293,7 @@ RTF_STYLESHEET_FILE    =
 RTF_EXTENSIONS_FILE    =
 RTF_SOURCE_CODE        = NO
 
-# Configuration options related to the man page output
+## Configuration options related to the man page output
 
 GENERATE_MAN           = NO
 MAN_OUTPUT             = man
@@ -301,31 +301,31 @@ MAN_EXTENSION          = .3
 MAN_SUBDIR             =
 MAN_LINKS              = NO
 
-# Configuration options related to the XML output
+## Configuration options related to the XML output
 
 GENERATE_XML           = NO
 XML_OUTPUT             = xml
 XML_PROGRAMLISTING     = YES
 XML_NS_MEMB_FILE_SCOPE = NO
 
-# Configuration options related to the DOCBOOK output
+## Configuration options related to the DOCBOOK output
 
 GENERATE_DOCBOOK       = NO
 DOCBOOK_OUTPUT         = docbook
 DOCBOOK_PROGRAMLISTING = NO
 
-# Configuration options for the AutoGen Definitions output
+## Configuration options for the AutoGen Definitions output
 
 GENERATE_AUTOGEN_DEF   = NO
 
-# Configuration options related to the Perl module output
+## Configuration options related to the Perl module output
 
 GENERATE_PERLMOD       = NO
 PERLMOD_LATEX          = NO
 PERLMOD_PRETTY         = YES
 PERLMOD_MAKEVAR_PREFIX =
 
-# Configuration options related to the preprocessor
+## Configuration options related to the preprocessor
 
 ENABLE_PREPROCESSING   = YES
 MACRO_EXPANSION        = NO
@@ -337,7 +337,7 @@ PREDEFINED             =
 EXPAND_AS_DEFINED      =
 SKIP_FUNCTION_MACROS   = YES
 
-# Configuration options related to external references
+## Configuration options related to external references
 
 TAGFILES               =
 GENERATE_TAGFILE       =
@@ -345,7 +345,7 @@ ALLEXTERNALS           = NO
 EXTERNAL_GROUPS        = YES
 EXTERNAL_PAGES         = YES
 
-# Configuration options related to the dot tool
+## Configuration options related to the dot tool
 
 CLASS_DIAGRAMS         = YES
 DIA_PATH               =
