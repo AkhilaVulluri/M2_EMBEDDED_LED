@@ -2,12 +2,12 @@
 
 ## Introduction
    LED controlling is a simple project in Embedded C progamming. There are several ways to control a LED circuit. You can control one using relays. You can use transistors. Or you can use components like an inverter, a 555 Timer or a microcontroller. Here a swtich is used to blink the two LED using ATmega328 microcontroller.
-
+   
 ## Objective
    The main objective is to control the led using ATmega328 and a switch is used to control two LED's.
 
 ## Components used
-1. ATmega328   
+1. ATmega328
 2. Two LED 
 3. Switch
 4. Resistor
