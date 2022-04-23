@@ -70,19 +70,19 @@
 | LLR_3 	| Two LED                  	| Implemented 	|
 | LLR_4 	| Visual studio & SimulIDE 	| Implemented 	|
 
-## Behavior Diagram:
+## Behavior Diagram
 
 ![Behavior Diagram](https://user-images.githubusercontent.com/81633037/144366484-fad99a99-613f-4ba8-b1ab-473b3e3199ae.png)
 
-## Block Diagram:
+## Block Diagram
 
 ![Block Diagram](https://user-images.githubusercontent.com/81633037/144366856-b171761d-036d-4a85-a5de-44cc2d431586.jpeg)
 
-## Structural Diagram:
+## Structural Diagram
 
 ![Structural Diagram](https://user-images.githubusercontent.com/81633037/144366527-db43285e-0fd3-4cda-9f20-655b27477a63.jpeg)
 
-## Simulation:
+## Simulation
 
 ![on state](https://user-images.githubusercontent.com/101192229/164243222-a6f5eebc-f067-4e26-b78d-57e3196d8788.PNG)
 
@@ -109,7 +109,7 @@
 | LLR_1 	| Switch on   	| value 1      	| LED On       	| LED On     	| Rquirement   	|
 | LLR_2 	| Switch Off  	| value 0      	| LED Off      	| LED Off    	| Requirement  	|
 
-## IDLE State:
+## IDLE State
 
 ![idel](https://user-images.githubusercontent.com/101192229/164243344-65db4d55-25d9-48d2-9b0d-afea9a082c64.PNG)
 
@@ -117,7 +117,6 @@
 
 ![on state](https://user-images.githubusercontent.com/101192229/164243264-3aa78f71-2799-4fea-9c17-c67295d55707.PNG)
 
-## Switch is OFF:
+## Switch is OFF
 
 ![idel](https://user-images.githubusercontent.com/101192229/164243372-e8610a4b-66c9-4594-9f01-d83ab7a2bd3b.PNG)
-
