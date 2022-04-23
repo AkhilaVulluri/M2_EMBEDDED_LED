@@ -1,4 +1,3 @@
-
 # Implementation
 ## Folder Structure
 | Folder   |      Description     |
@@ -7,4 +6,3 @@
 | inc | All header files |
 | simulation | simulation files |
 | src | Main source code for LED_Controls |
-
