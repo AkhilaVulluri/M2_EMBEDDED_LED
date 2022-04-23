@@ -1,4 +1,4 @@
-# Doxyfile 1.8.17
+## Doxyfile 1.8.17
 
 # Project related configuration options
 
