@@ -86,7 +86,7 @@
 
 ![on state](https://user-images.githubusercontent.com/101192229/164243222-a6f5eebc-f067-4e26-b78d-57e3196d8788.PNG)
 
-# Implementation
+## Implementation
 ## Folder Structure
 | Folder   |      Description     |
 |----------|:-------------:|
@@ -95,7 +95,7 @@
 | simulation | simulation files |
 | src | Main source code for LED_Controls |
 
-# Test Plan
+## Test Plan
 
 ## High Level Requirement
 | Id    	| Description 	| Expected I/P 	| Expected O/P 	| Actual O/P 	| Type Of Test 	|
@@ -113,8 +113,7 @@
 
 ![idel](https://user-images.githubusercontent.com/101192229/164243344-65db4d55-25d9-48d2-9b0d-afea9a082c64.PNG)
 
-
-## Switch is ON:
+## Switch is ON
 
 ![on state](https://user-images.githubusercontent.com/101192229/164243264-3aa78f71-2799-4fea-9c17-c67295d55707.PNG)
 
