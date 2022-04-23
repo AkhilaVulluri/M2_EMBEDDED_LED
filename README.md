@@ -1,4 +1,5 @@
 # M2_EMBEDDED_LED
+[![Build](https://github.com/AkhilaVulluri/M2_EMBEDDED_LED/actions/workflows/compile.yml/badge.svg)](https://github.com/AkhilaVulluri/M2_EMBEDDED_LED/actions/workflows/compile.yml)
 ## Folder Structure
 | Folder | Description |
 |---|---|
