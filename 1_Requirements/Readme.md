@@ -21,7 +21,6 @@
 
 <img width="457" alt="Screenshot 2021-12-01 at 8 24 00 PM" src="https://user-images.githubusercontent.com/94396238/144258251-fbeb07e4-0d7f-4378-ab41-bc5fb1c4a8f7.png">
 
-
 ## Features
     1. It can turn off the LED's when switch is in off state.
     2. It can turn on the LED's when switch is in on state.
